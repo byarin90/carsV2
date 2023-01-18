@@ -8,5 +8,5 @@ export const connectToMongoDB = () => {
         useNewUrlParser: true,
         useUnifiedTopology: true,
 
-    }, () => console.log("MongoDb Super ATLAS Connect..."));
+    }, () => console.log("MongoDb ATLAS Connect..."));
 }
